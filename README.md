@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/248812720/56902700-c5bd-11ea-813f-ed8631377258)
+<img src="https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232?k=20&m=636526232&s=170667a&w=0&h=Gr4lG-mwzctLhPganTlK5SFaEKKXqjnmPQbWWavBLFA=" height="400" width="100%">
 <h1 align="center">Hi 👋, I'm Watson Chen</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
